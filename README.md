@@ -4,3 +4,10 @@
 
 
 2013/12/07 add notes about `case` and `if`
+
+2013/12/11 add notes about 
+ > ```select   
+       --  do   command...  
+    break  
+    done  
+   ```
