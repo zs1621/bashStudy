@@ -15,3 +15,5 @@
     break  
     done  
    ```
+
+2013/12/22 add some examples about `variable assignment`
