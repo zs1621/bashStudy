@@ -4,6 +4,10 @@
 
 echo
 
+hello="A B C     D"
+echo $hello
+echo "$hello"
+
 
 var="'(]\\{}\$\""
 echo $var

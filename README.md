@@ -21,3 +21,5 @@
 2013/12/26 add example about `position parameter and shift_use`
 
 2013/12/27 add example `quote_variable.sh`
+
+2013/12/29 add example `escape`
