@@ -27,3 +27,5 @@
 2014/1/2 add example about `exist status`
 
 2014/1/3 add example about `test construct`
+
+2014/1/7 add example about `file-test-operators`
